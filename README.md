@@ -7,10 +7,7 @@ coudshel .[g](https://shell.cloud.google.com/?fromcloudshell=true&show=terminal&
 
 
  ```console  
-
 2TTx2PFzy9YQDwl2IZmdtOipRyP_74anSY6W4UJUdMdf6NNb3
-
-
  ```
 
 
